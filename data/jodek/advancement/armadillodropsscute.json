@@ -1,0 +1,76 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:armadillo_scute"
+      },
+      "title": "Armadillo Drops Scute                                                                                                                  ",
+      "description": [
+        "",
+        {
+            "text": "Armadillos now drop scutes on death!\n",
+            "color": "white"
+        },
+        {
+            "text": "\n",
+            "color": "yellow"
+        },
+        {
+            "text": "/trigger",
+            "color": "yellow"
+        },
+        {
+            "text": " help.armadillodropsscute\n",
+            "color": "yellow"
+        },
+        {
+            "text": "for help\n",
+            "color": "white"
+        },
+        {
+            "text": "\n",
+            "color": "green"
+        },
+        {
+            "text": "Datapack version: ",
+            "color": "dark_green"
+        },
+        {
+            "text": "v.2.1.0",
+            "color": "green"
+        },
+        {
+            "text": "\n",
+            "color": "green"
+        },
+        {
+            "text": "Game version: ",
+            "color": "dark_green"
+        },
+        {
+            "text": "1.21",
+            "color": "green"
+        },
+        {
+            "text": "\n",
+            "color": "green"
+        },
+        {
+            "text": "\n",
+            "color": "green"
+        },
+        {
+            "text": "modrinth.com/datapack/armadillo-drops-scute",
+            "color": "dark_purple"
+        }
+    ],
+      "frame": "task",
+      "show_toast": false,
+      "announce_to_chat": false
+  },
+  "parent": "jodek:mobs",
+  "criteria": {
+      "tick": {
+          "trigger": "minecraft:tick"
+      }
+  }
+}
